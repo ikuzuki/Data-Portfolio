@@ -1,6 +1,6 @@
 # Data Portfolio
 
-This repository contains a portfolio of data science and data analysis projects completed by me for academic, self learning, and hobby purposes.
+This repository contains a portfolio of data science, data analysis and other relevant projects completed by me for academic, self learning, and hobby purposes.
 
 ## Contents
 - [**Winning Space Race with Data Science**](https://github.com/ikuzuki/Data-Portfolio/blob/main/Coursera%20IBM%20Data%20science%20capstone%20presentation.pdf)
