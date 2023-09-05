@@ -9,7 +9,7 @@ This repository contains a portfolio of data science and data analysis projects 
 
   **Key skills**: Data Collection, Data Wrangling, Data Visualisation, Machine Learning, SQL, Python
 
-- [**Planning a Succesfull Electric Vehicle Release**](https://github.com/ikuzuki/Data-Portfolio/blob/main/Experian%20step%20up%20challenge%20-%20Issei%20Kuzuki.pdf)
+- [**Planning a Succesful Electric Vehicle Release**](https://github.com/ikuzuki/Data-Portfolio/blob/main/Experian%20step%20up%20challenge%20-%20Issei%20Kuzuki.pdf)
 
   BMW are planning to release a new electric vehicle and are looking for potential customers. The aim was to use survey data and google analytics data along with the Mosaic UK 7 Grand Index to form profiles of potential customers for their new product as well as build an algorithm to identify users who may be interested in a test drive.
 
