@@ -5,7 +5,7 @@ This repository contains a portfolio of data science and data analysis projects 
 ## Contents
 - [**Winning Space Race with Data Science**](https://github.com/ikuzuki/Data-Portfolio/blob/main/Coursera%20IBM%20Data%20science%20capstone%20presentation.pdf)
 
-  SpaceX’s Falcon 9 rocket launches can land and reuse their first stage which saves huge costs for each launch. However, sometimes during a test launch, the first stage may not land, this is often intentional and not due to accidents. The aim was to try to predict the launch outcome of spaceX rockets using publicly available data and without diving into the technical specifications of the rocket science.
+  SpaceX’s Falcon 9 rocket launches can land and reuse their first stage which saves huge costs for each launch. However, sometimes during a test launch, the first stage may not land, this is often intentional and not due to accidents. The aim was to try to predict the launch outcome of SpaceX rockets using publicly available data and without diving into the technical rocket science.
 
   **Key skills**: Data Collection, Data Wrangling, Data Visualisation, Machine Learning, SQL, Python
 
