@@ -15,4 +15,8 @@ This repository contains a portfolio of data science and data analysis projects 
 
   **Key skills**: Exploratory Data Analysis, Machine Learning, Data Visualisation, Building Algorithms, Presentation, Python
 
--
+- [**Solving Optimisation Problems**](https://github.com/ikuzuki/Data-Portfolio/blob/main/Solving%20optimisation%20problems.pdf)
+
+  Implemented and investigated 2 optimisation algorithms, simulated annealing and genetic algorithm to solve a constrained optimisation problem. The function being optimised was a 6 dimensional Schwefel's function which has multiple local minima and maxima making it a complex problem to solve.
+
+  **Key skills**: Optimisation, Simulated Annealing, Genetic Algorithm, Python 
