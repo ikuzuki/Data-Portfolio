@@ -19,4 +19,11 @@ This repository contains a portfolio of data science, data analysis and other re
 
   Implemented and investigated 2 optimisation algorithms, simulated annealing and genetic algorithm to solve a constrained optimisation problem. The function being optimised was a 6 dimensional Schwefel's function which has multiple local minima and maxima making it a complex problem to solve.
 
-  **Key skills**: Optimisation, Simulated Annealing, Genetic Algorithm, Python 
+  **Key skills**: Optimisation, Simulated Annealing, Genetic Algorithm, Python
+
+- [**Expected Statistics in the Premier League - Can we rely on them?**](https://github.com/ikuzuki/Data-Portfolio/blob/main/Expected%20Statistics%20in%20Football%20-%20Tableau%20project.pdf)
+  [Link to Tableau Public Presentation](https://public.tableau.com/app/profile/issei.kuzuki/viz/ExpectedstatsintheEPLstory/xEPL?publish=yes)
+  
+  Expected statistics such as xG and xA are commonly used in football as a metric to analyse matches and player performance. The aim was to investigate the reliability and effectiveness of these statistics since these metrics are crucial for both sports analysts and clubs for player evaluation and tactical decisions.
+
+  **Key skills**: Data Visualisation, Data Storytelling, Data Collection, Data Cleaning, Tableau, Excel
