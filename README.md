@@ -7,7 +7,7 @@ This repository contains a portfolio of data science, data analysis and other re
 
   SpaceX’s Falcon 9 rocket launches can land and reuse their first stage which saves huge costs for each launch. However, sometimes during a test launch, the first stage may not land, this is often intentional and not due to accidents. The aim was to try to predict the launch outcome of SpaceX rockets using publicly available data and without diving into the technical rocket science.
 
-  **Key skills**: Data Collection, Data Wrangling, Data Visualisation, Machine Learning, SQL, Python
+  **Key skills**: Data Collection, Data Wrangling, Exploratory Data Analysis, Data Visualisation, Machine Learning, SQL, Python
 
 - [**Planning a Succesful Electric Vehicle Release**](https://github.com/ikuzuki/Data-Portfolio/blob/main/Experian%20step%20up%20challenge%20-%20Issei%20Kuzuki.pdf)
 
